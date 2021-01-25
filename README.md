@@ -8,7 +8,7 @@ This is an academic project in which we had to create a Weather Bot to answer so
     <li>Is it hot in Los Angeles today ?</li>
 </ul>
 
-To understand the subject and the instructions, take a look to the [VanillaBot_Instructions](https://github.com/kevinnclas/Vanilla_WeatherBot/blob/main/VanillaBot_Instructions.pdf) file.
+To understand the subject and the instructions, take a look to the [VanillaBot_Instructions](https://github.com/ikhlo/Vanilla_WeatherBot/blob/main/VanillaBot_Instructions.pdf) file.
 
 </br> 
 
@@ -17,7 +17,7 @@ We used the [OpenWeather APIs](https://openweathermap.org/api) to collect our we
 
 ### Collaborators:
 
-<ul><li><a href=https://github.com/ikhlo>Ikhlass YAYA-OYÉ</a></li></ul>
+<ul><li><a href=https://github.com/kevinnclas>Kevin NICOLAS</a></li></ul>
 
 
 #### :warning: Warning :warning:
